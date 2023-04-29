@@ -39,9 +39,7 @@ A test file: shape.test.js is provided inside lib folder.
 
 ## Sample Logos
 
-<img src="./assets/images/SVG_square.png " alt="">
-<img src="./assets/images/SVG_triangle.png " alt="">
-<img src="./assets/images/SVG_circle.png " alt="">
+<img src="./assets/sampleImages.png " alt="">
 
 - My GitHub: jenryt
 - My email: email@gmail.com
