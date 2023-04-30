@@ -42,4 +42,4 @@ A test file: shape.test.js is provided inside lib folder.
 <img src="./assets/sampleImages.png " alt="">
 
 - My GitHub: jenryt
-- My email: email@gmail.com
+- My email: bicodeture@gmail.com
