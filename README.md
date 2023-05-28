@@ -28,6 +28,9 @@ SVG Logo Maker is an easy-to-use Node.js application that allows users to create
 3. After answering all the questions, look for the newly generated logo in "examples" folder.
 4. The svg file will be named in the following manner : “<characters of your choice>\_<shape of the logo>.svg”
 
+Please find attached demo videos showcasing the functionality of our application.<br>
+https://drive.google.com/file/d/1TT9ttaarmQA0XO92oHayNXQANn9YRx1F/view
+
 ## License
 
 This project is licensed under the MIT License - see the link for detail
@@ -36,6 +39,9 @@ https://opensource.org/license/mit/
 ## Tests
 
 A test file: shape.test.js is provided inside lib folder.
+
+Please find attached demo videos showcasing the tests conducted on our application.<br>
+https://drive.google.com/file/d/11glU_1ANzmwKvHURzrnc-M6GRQsNcKyk/view
 
 ## Sample Logos
 
